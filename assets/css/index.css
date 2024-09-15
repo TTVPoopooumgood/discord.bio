@@ -1,9 +1,9 @@
 :root {
-    --background-primary: #f31919;
+    --background-primary: #000000;
     --background-secondary: #000000;
-    --background-tertiary: #f31919;
+    --background-tertiary: #000000;
     --background-accent: #000000;
-    --background-floating: #f31919;
+    --background-floating: #000000;
     --text-normal: #dcddde;
     --text-muted: #72767d
 }
