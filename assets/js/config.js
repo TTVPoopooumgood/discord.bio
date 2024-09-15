@@ -1,19 +1,19 @@
 const BADGES = [
   {
-    name: "HypeSquad Bravery", // Message that will appear when hovering over the badge
-    image: "assets/badges/hypesquad_bravery.svg",
+    name: "HypeSquad brilliance", // Message that will appear when hovering over the badge
+    image: "assets/badges/hypesquad_brilliance.svg",
   },
   {
-    name: "Subscriber since Jun 29, 2022",
+    name: "Subscriber since Jun 29, 2023",
     image: "assets/badges/nitro.svg",
   },
   {
-    name: "Server boosting Jun 29, 2022",
+    name: "Server boosting Jun 29, 2023",
     image: "assets/badges/boost.svg",
   },
   {
-    name: "That's an example! Change in config.js", // Message that appears when you hover over it
-    image: "assets/badges/bug_hunter_level2.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
+    name: "TTVbage", // Message that appears when you hover over it
+    image: "assets/badges/verified_bot_developer.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
   },
 ];
 
@@ -21,19 +21,19 @@ const USER_ID = "1169111190824308768"; // Your Discord Id Here | You need to joi
 const BACKGROUND_IMAGE = "assets/images/star.gif"; // Here is the background of the site, behind your profile
 const STATUS = {
   dnd: {
-    name: "Do not disturb", // Discord Status
+    name: "Do not disturb :)", // Discord Status
     color: "#ed4245",
   },
   idle: {
-    name: "Busy",
+    name: "Busy >:)",
     color: "#faa81a",
   },
   online: {
-    name: "Online",
+    name: "Online ????",
     color: "#3ba55d",
   },
   offline: {
-    name: "Offline",
+    name: "Offline :(",
     color: "#6e7985",
   },
 };
