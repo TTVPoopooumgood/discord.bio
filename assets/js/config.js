@@ -34,6 +34,6 @@ const STATUS = {
   },
   offline: {
     name: "Offline :(",
-    color: "#6e7985",
+    color: "#ed4245",
   },
 };
